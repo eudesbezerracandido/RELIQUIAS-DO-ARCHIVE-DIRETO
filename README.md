@@ -22,4 +22,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/t8PwuoH4Mo0lAa9cqmwnjK8PSWV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A cadela Lassie é vendida por sua família, que está com sérios problemas financeiros. Não satisfeita, Lassie viaja 1.000 milhas para retornar à casa de seus verdadeiros donos. Baseado no romance de Eric Knight.</info>
-</item>
+</item> 
