@@ -56,3 +56,27 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os sonhos visionários de três meninos curiosos e aventureiros transformam-se em uma excitante realidade em Viagem ao Mundo dos Sonhos, a fantasia de ação do aclamado diretor Joe Dante (Gremlins), que combina humor inteligente, afeto e fantasia, com inesperadas reviravoltas. Em seu improvisado laboratório, os garotos usam sua genialidade e também uma surpreendente descoberta para construir sua própria nave espacial e lançarem-se em uma fantástica viagem interplanetária. Uma galáxia de aventuras para toda a família, estrelando os jovens River Phoenix (Conta Comigo, Quebra de Sigilo) e Ethan Hawke (Dia de Treinamento, Caindo na Real).</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] PORQUE TEMOS ESPERANÇA [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/porque-temos-esperanc-a/PORQUE%20TEMOS%20ESPERAN%C3%87A.mp4</link>
+<thumbnail>https://ia801505.us.archive.org/31/items/porque-temos-esperanca-2/Porque-temos-esperanca-2.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>a jornada de uma mulher pernambucana e a sua rejeição para tudo aquilo que parece não ter jeito. Vivendo profundos dilemas na vida pessoal e na tentativa de reconstruir outras vidas, ela inicia uma trajetória pelos presídios de Recife, na intenção que pais reconheçam seus filhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ZALU [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/zalu-completo-filme-de-fernando-marques/ZALU%20%20%20COMPLETO%20-%20FILME%20%20%20%20De%20%20Fernando%20Marqu%C3%AAs.mp4</link>
+<thumbnail>https://ia601503.us.archive.org/29/items/21742938-489659334720978-5831918866379725663-n/21742938_489659334720978_5831918866379725663_n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Zalu ( ADRIANA MARTINS) é uma escrava negra que surge nas  terras de Cortês no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (HAMILTON TORRES). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (JOEL VIANA), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (NETO NUNES). ROTEIRO E DIREÇÃO: FERNANDO MARQUES.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÁRIDO- COM SELTON MELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/a-rido-com-selton-melo/%C3%81RIDO-COM%20SELTON%20MELO.mp4</link>
+<thumbnail>https://archive.org/download/arido_20movie_202_400x400/arido_20movie_202_400x400.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Repórter de telejornal vai ao interior do Nordeste para enterro do pai. Na viagem, conhece cineasta que faz filme sobre a água do Nordeste e com quem se envolve. Quando chega à sua cidade natal, descobre que deverá vingar a morte do pai.</info>
+</item>
