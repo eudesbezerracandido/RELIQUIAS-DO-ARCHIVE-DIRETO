@@ -89,6 +89,14 @@
 <info> MOTO LASER é uma série de televisão americana que foi ao ar por 13 episódios na ABC em 1985. A série é uma produção de Limekiln e Templar em associação com a Universal Television. Seus personagens centrais foram criados por Paul M. Belous e Robert "Bob" Wolterstorff, e seu formato central foi desenvolvido por Bruce Lansbury, que inicialmente encomendou a criação do programa. Esta série foi originalmente planejada para o outono de 1984, às segundas-feiras às 20h do leste/19h do centro. No entanto, os executivos da ABC mudaram de ideia quando a série de verão Call to Glory foi bem, e MOTO LASER foi adiado para o meio da temporada. MOTO LASER estreou em 4 de janeiro de 1985 na ABC às 21:00 Eastern/8:00 PM Central e funcionou até 16 de maio de 1985.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENINO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/o-menino-de-ouro_202105/O%20MENINO%20DE%20OURO.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Procurando uma criança para adotar e incapaz de conceber um filho, as vidas dos Morrison são viradas de cabeça para baixo quando um menino de 7 anos inesperadamente aparece à sua porta.</info>
+</item>
+
 
 
 
