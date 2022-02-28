@@ -102,5 +102,23 @@
 </item>
 
 
+<item>
+<title>[COLOR silver][B] JASÃO - E O VELOCINIO DE OURO (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>t89cAmA3oec</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbCrWcThUpxpw8CdCIpaXJ3mtHn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B] O  TRIUNFO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>LBVf1valn5s</utube>
+<thumbnail>https://s1.static.brasilescola.uol.com.br/be/conteudo/images/424ec2c1f164e800b55f3619f7ec2cfc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Matthew Perry é um jovem professor impaciente, porém talentoso, que deixa sua casa na zona rural da Carolina do Norte para se aventurar a dar aulas nas escolas de Nova York. Enquanto luta para manter seu otimismo ao se defrontar com um obstáculo após o outro, ele desistirá de tudo para retornar à sua casa com o rabo entre as pernas, ou realizará sua ambição e transformá o futuro de alguns dos mais difíceis e vulneráveis garotos da cidade?…</info>
+</item>
+
+
 
 
