@@ -119,15 +119,6 @@
 <info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] MARIA DO BAIRRO TODOS CAP. YOUTUBE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>Q53eQe6yCKE$nome=[B]MARIA DO BAIRRO EP.1[/B]</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/xIwIgMAW9e2qUZN9gyYZS0xcdS6.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma jovem catadora de lixo que mora na periferia da cidade perde sua madrinha. Antes de morrer, a madrinha implora ao padre local que proteja a jovem. O padre ajuda a moça conseguindo trabalho para ela na casa de um milionário.</info>
-</item>
-
-$nome=[B]TORRENT  MICHAEL MORBIUS[/B]</link>
 
 
 
