@@ -5,7 +5,7 @@
 <item>
 <title>[COLOR silver][B] AS SETE FACE Dr. LAU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>https://archive.org/download/as-sete-faces-dr.-lau_202106/AS%20SETE%20FACES%20DR.LAU.mp4</link>
-<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hba/h70/h00/h00/10793012920350.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/iLiSUuejkSXNWhQlRjIJUlF44s1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dr. Lao (Tony Randall), chinês gentil e idoso de 7322 anos chega em Abalone, com seu circo. Ele rapidamente nota que a cidade é dominada por um rico rancheiro, Clint Stark (Arthur O’Connell), que alega que em seis meses não haverá mais água, pois o aqueduto está quase inutilizado. Stark quer comprar toda a cidade e só Ed Cunningham (John Ericson), o dono do jornal local, se opõe. Mas em poucos dias o Dr. Lao irá alterar a vida dos moradores de Abalone.</info>
 </item>
