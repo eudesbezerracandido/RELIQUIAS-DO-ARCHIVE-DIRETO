@@ -120,8 +120,16 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] teste (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] teste1 (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>PLL9YRXZXCLjXeJhdW2smFUQIvlxEc2zCW</utube>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] teste2 (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>K15dcGd7Jdw</utube>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
