@@ -121,7 +121,7 @@
 
 <item>
 <title>[COLOR silver][B] teste (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>K15dcGd7Jdw&lis</utube>
+<utube>K15dcGd7Jdw&list</utube>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
