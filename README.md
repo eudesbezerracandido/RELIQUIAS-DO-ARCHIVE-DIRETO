@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR silver][B] AS SETE FACE Dr. LAU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AS 7 FACE Dr. LAO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>https://archive.org/download/as-sete-faces-dr.-lau_202106/AS%20SETE%20FACES%20DR.LAU.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iLiSUuejkSXNWhQlRjIJUlF44s1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -121,7 +121,7 @@
 
 <item>
 <title>[COLOR silver][B] teste (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>K15dcGd7Jdw&list</utube>
+<utube>PLL9YRXZXCLjXeJhdW2smFUQIvlxEc2zCW</utube>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
