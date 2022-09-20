@@ -1,6 +1,15 @@
 # RELIQUIAS-DO-ARCHIVE-DIRETO
 
 
+
+<item>
+<title>[COLOR silver][B] BROTHERS THE WIND-IRMÃOS DO VENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/brothers-of-the-wind/Assistir%20Brothers%20of%20the%20Wind%20Online%20Gratis%20-%202015.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n7ghzx9azfBho8WNB02jqOlAm5P.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O caminho da águia é criar dois filhotes. O mais forte está destinado sempre a lançar o mais fraco do ninho. O homem também tem seus caminhos, muitas vezes para ferir os mais próximos a ele. Lukas sofre nas mãos de um pai que se retraiu desde a perda de sua esposa. Morto enquanto resgatava o bebê Lukas, o menino agora carrega o fardo de sua morte. A história da nossa águia começa no ninho. O filhote primogênito empurra seu irmão mais fraco para uma morte certa no chão da floresta. Mas o destino intervém e a garota é encontrada por Lukas. Nomeando-o Abel, Lukas cuida da criatura em segredo, encontrando um amor e companheirismo negados a ele em casa. Mas quando chegar o dia de libertar Abel de volta à natureza, Lukas encontrará sua própria libertação para uma nova vida?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NAS GARRAS DO TIGRE - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/nas-garras-do-tigre-filme-completo-e-dublado-em-hd/Nas%20Garras%20do%20Tigre%20-%20Filme%20Completo%20e%20Dublado%20em%20HD.mp4</link>
