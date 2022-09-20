@@ -11,14 +11,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] CAÇADA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62893A854809DAFFBF56EB1DFDDB2D500ECD70C4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/AoJzXdsFhJMqX0avKctdQNHGmem.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nova York. Matt Scudder é um ex-policial que agora trabalha como investigador privado, muitas vezes agindo fora da lei. Com uma certa relutância, ele aceita ajudar um traficante de drogas que está atrás do homem que sequestrou e matou sua esposa. Não demora muito para que Matt descubra que o procurado já havia cometido este tipo de crime.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] NAS GARRAS DO TIGRE - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/nas-garras-do-tigre-filme-completo-e-dublado-em-hd/Nas%20Garras%20do%20Tigre%20-%20Filme%20Completo%20e%20Dublado%20em%20HD.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eWh8e4Czn0I3HABUyIYHvPs8Nvp.jpg</thumbnail>
