@@ -3,6 +3,35 @@
 
 
 <item>
+<title>[COLOR silver][B] O ATAQUE DAS FORMIGAS GIGANTES (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/formigas/O%20Ataque%20das%20Formigas%20Gigantes%20%281977%29.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d6u9yqilFo3poFQcLOFA507ghNI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Algumas formigas têm contato acidental com material radioativo e se tornam gigantes e assassinas. Uma agressiva empresária do ramo imobiliário que planeja drenar uma zona pantanosa, para levantar um condomínio residencial exclusivo, visita com seus potenciais clientes ao canteiro de obras, com objetivo de fechar negócios. Aluga um iate de um experiente capitão do rio e passeia com seus convidados. Quando descobrem que um desastre radioativo, que causou uma mutação nas formigas, que em breve lapso de tempo, alcançam o tamanho de um ser humano e evoluíram tanto, que dominam telepaticamente a população do povoado próximo. Um terror diferente, cine "B" realizado com orçamento baixo e atores iniciantes, mas o resultado é um filme apavorante e gracioso. "Trash" clássico dos anos 1980, inédito e indispensável aos amantes do gênero.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE VOLTA AO PRESENTE DE ( 1999 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/presente_202211/DE%20VOLTA%20AO%20PRESENTE.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uagAZJ5Uo0UUqk2nn8Geom42Mdh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Los Angeles, 1962. Calvin Webber é um cientista genial mas paranóico em relação à Guerra Fria. Calvin acredita que os mísseis em 
+Cuba eram o aviso de que uma guerra contra a União Soviética era eminente e assim faz Helen, sua esposa, descer para um sofisticado abrigo subterrâneo que ele 
+tinha construído. Logo após os dois descerem um avião de caça cai em cima da casa dos Webber, o que faz com que Calvin acredite que tudo foi destruído em uma 
+guerra nuclear e acione uma trava que só abrirá em trinta e cinco anos. No abrigo nasce Adam. Durante 35 anos, Adam foi criado com os padrões do início dos anos 
+60. Em 1998, Adam é mandado à superfície para conseguir mantimentos e encontrar uma esposa que não seja "mutante". Mas Adam encontra um mundo bem 
+diferente do que esperava e vai se adaptando a esta nova realidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMEAÇA INVISÍVEL ( 2005 ) Archive [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/ameaca_202210/AMEA%C3%87A%20INVIS%C3%8DVEL.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qSt68YS4hOhFXO8Pahk9EjaJN4R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Henry, Ben e Kara são considerados os melhores pilotos de guerra do mundo. Mas um novo membro se junta ao time deles, uma obra-prima, completamente automatizada, que não precisa de piloto, um super avião de caça praticamente invisível para radares — desumano e invencível. Mas uma vez que este caça levanta vôo e não retorna, espalhando destruição em segundos por todo o mundo, o time tem uma última missão que não pode falhar: parar esta máquina — não importa como.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BROTHERS THE WIND-IRMÃOS DO VENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/brothers-of-the-wind/Assistir%20Brothers%20of%20the%20Wind%20Online%20Gratis%20-%202015.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/n7ghzx9azfBho8WNB02jqOlAm5P.jpg</thumbnail>
