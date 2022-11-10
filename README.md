@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TROVÃO AZUL 1983 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/azul_20221110/TROV%C3%83O%20AZUL%201983.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ytHeRRetF23dgWJ1kxMt6WjAqRb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Trovão Azul é um helicóptero especialmente modificado para trabalho policial, criado para controlar rebeliões. O piloto da polícia que deve ser treinado para comandá-lo tem diferenças com o criador do projeto desde a época do Vietnã, e elas pioram.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ATAQUE DAS FORMIGAS GIGANTES (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/formigas/O%20Ataque%20das%20Formigas%20Gigantes%20%281977%29.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d6u9yqilFo3poFQcLOFA507ghNI.jpg</thumbnail>
