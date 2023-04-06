@@ -3,6 +3,46 @@
 
 
 <item>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>Gv67EsNdhNk&t</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>1236s&ab</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>Gv67EsNdhNk&t</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>Gv67EsNdhNk</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>1236s&ab_channel</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ORAÇÕES PARA BOBBY  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/bob_20230216/ORA%C3%87%C3%95ES%20PARA%20BOBBY.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ryaJFI5adEgBB4H2ZuIgJCwa3ev.jpg</thumbnail>
