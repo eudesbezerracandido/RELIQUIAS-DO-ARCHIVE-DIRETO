@@ -2,6 +2,26 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA- LOTUS ( FEITO POR FÃ ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/homem-aranha-lotus/Homem%20Aranha%20-%20Lotus.mp4</link>
+<thumbnail>https://ia600509.us.archive.org/16/items/lotus_20230825/dfdfdf.PNG</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gavin J. Konop, o escritor e diretor de Spider-Man: Lotus, foi acusado de desistir do filme de fãs financiado por crowdfunding depois que várias alegações de racismo foram feitas contra ele e o ator da Lotus, Warden Wayne.
+Seguidores observaram que Konop cancelou sua conta pessoal no Twitter depois de tirar uma licença das mídias sociais desde que as acusações de racismo começaram em junho de 2022, o que provocou as acusações.
+Muitos apoiadores expressaram insatisfação com o fato de que as pessoas que doaram para a campanha Spider-Man: Lotus perderam seu dinheiro e não receberiam o produto final conforme prometido.
+O roteirista-diretor foi contatado para uma explicação quando o usuário do Twitter @luffymarcomin observou que a conta do Instagram de Konop ainda estava ativa e disse:
+“Esse silêncio de rádio e a exclusão do seu perfil do Twitter não estão me enchendo de confiança“. Spider-Man: Lotus será lançado, Konop informou ao fã, acrescentando que forneceria “atualizações no meu canal do YouTube quando eu as tiver“.
+Depois que várias fotos de Wayne, que interpreta Peter Parker no filme de fãs, fazendo comentários homofóbicos foram postados nas mídias sociais em junho de 2022, a questão inicial em torno do Spider-man: Lotus começou.
+Em 18 de junho, o ator se desculpou por seus comentários de seus primeiros anos e disse:
+“Estou envergonhado e triste por quem eu era, e sinto muito por qualquer um que tenha ofendido anos atrás, ou por qualquer pessoa que ofendi hoje. divulgando essas informações“.
+Após as transgressões anteriores do ator serem denunciadas em uma declaração oficial da Konop, alguns de seus seguidores começaram a twittar capturas de tela que pareciam mostrar o escritor-diretor fazendo comentários racistas no Instagram também. Em resposta, Konop disse que as imagens eram uma mistura de “capturas de tela photoshopadas de mim dizendo coisas ultrajantes, para capturas de tela de coisas que administradores antigos enviaram da minha conta há vários anos, para mensagens antigas reais que precisam ser endereçadas, para um toda a situação que precisa ser resolvida por conta própria.” Ele disse que depois de tirar férias das redes sociais, dará uma resposta oficial.
+Em outubro de 2021, o primeiro trailer de Spider-Man: Lotus foi disponibilizado. O filme de fãs sem fins lucrativos é amplamente baseado em “O garoto que coleciona o Homem-Aranha” e “Homem-Aranha: Azul“, dois contos bem conhecidos do Homem-Aranha. A edição de 1983 de The Amazing Spider-Man # 248 apresenta a história “The Kid Who Collects Spider-Man” de Roger Stern, Ron Frenz, Terry Austin, Bob Sharen e Diana Albers. Centra-se em Timothy Harrison, um jovem que está em estado terminal, a quem o Homem-Aranha visita e revela vários de seus segredos, incluindo sua origem.
+Famosamente, Spider-Man: The Animated Series adaptou o conto. Jeph Loeb, Tim Sale, Steve Buccellato, Richard Starkings e Wes Abbott lançaram Homem-Aranha: Azul em 2002. Na trama, Peter Parker visita a cena em que o Duende Verde matou Gwen Stacy, e um flashback dá uma nova dimensão ao relacionamento deles.
+Embora uma data de lançamento para Homem-Aranha: Lotus seja atualmente desconhecida, já foi planejado para estrear em 2022.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/sonambulos-1992/Son%C3%A2mbulos%20%281992%29.mp4</link>
