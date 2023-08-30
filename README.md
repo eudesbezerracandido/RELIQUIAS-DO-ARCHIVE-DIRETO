@@ -2,6 +2,15 @@
 
 
 
+<item>
+<title>[COLOR silver][B] REI TUT ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8HYYrDI4E0E1mBFqvW8sg6xujCP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A saga surpreendente de Tutankamon, o Rei Tut, um dos governantes mais extraordinários da história, sua ascensão ao poder e sua luta para levar o Egito à glória, enquanto seus conselheiros mais próximos, amigos e amantes tramam em favor de seus próprios e mal intencionados interesses.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA- LOTUS ( FEITO POR FÃ ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
