@@ -204,13 +204,6 @@ diferente do que esperava e vai se adaptando a esta nova realidade.</info>
 <info>Procurando uma criança para adotar e incapaz de conceber um filho, as vidas dos Morrison são viradas de cabeça para baixo quando um menino de 7 anos inesperadamente aparece à sua porta.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] JASÃO - E O VELOCINIO DE OURO (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>t89cAmA3oec</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/fbCrWcThUpxpw8CdCIpaXJ3mtHn.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
-</item>
 
 
 
